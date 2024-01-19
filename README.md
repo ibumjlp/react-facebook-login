@@ -41,3 +41,4 @@ Get your Meta App ID and change .env file
 ```javascript
 REACT_APP_META_APP_ID=<YOUR_APP_ID>
 ```
+Don't forget to Valid OAuth Redirect URIs and Allowed Domains for the JavaScript SDK with your HTTPS endpoint from ngrok
